@@ -27,7 +27,9 @@ The data used in this analysis comes from a publicly available Fitbit dataset pr
 - **Heart rate data**: Continuous readings provide insights into resting and active heart rate patterns.
 - **Weight logs**: Data on user weight, providing additional context on fitness progress and health metrics.
 
-[Data Access]((https://drive.google.com/drive/folders/1Ay2kj0EuAuXeg_oHEIAPHzSag2UhF7Rd?usp=drive_link))
+The data files are too large to be hosted directly on GitHub. You can download them from the following link:
+
+- [Download Data from Google Drive](https://drive.google.com/drive/folders/1Ay2kj0EuAuXeg_oHEIAPHzSag2UhF7Rd?usp=drive_link)
 
 ## Analysis
 The analysis focuses on several key behavioral patterns:
